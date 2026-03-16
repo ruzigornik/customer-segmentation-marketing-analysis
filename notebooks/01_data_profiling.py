@@ -119,9 +119,9 @@ corr_report = []
 for col1, col2 in corr_pairs:
     corr = df[[col1, col2]].dropna().corr().iloc[0, 1]
     interpretation = (
-        'Strong ✅' if abs(corr) > 0.6
-        else 'Moderate ⚠️' if abs(corr) > 0.3
-        else 'Weak ❌'
+        'Strong' if abs(corr) > 0.6
+        else 'Moderate' if abs(corr) > 0.3
+        else 'Weak'
     )
     corr_report.append({
         'Pair': f'{col1} ↔ {col2}',
