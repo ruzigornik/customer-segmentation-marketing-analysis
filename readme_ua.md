@@ -1,4 +1,4 @@
-> 🇬🇧 [English version](README.md)
+> 🇬🇧 [English version](readme.md)
 
 # Customer Personality Analysis
 ## Маркетинговий аналіз клієнтської бази роздрібного магазину

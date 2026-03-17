@@ -1,4 +1,4 @@
-> 🇺🇦 [Українська версія](README_ua.md)
+> 🇺🇦 [Українська версія](readme_ua.md)
 
 # Customer Personality Analysis
 Marketing analysis of a retail store customer base
