@@ -1,8 +1,7 @@
+> 🇺🇦 [Українська версія](README_ua.md)
+
 # Customer Personality Analysis
 Marketing analysis of a retail store customer base
-![Dashboard 1](1.png)
-![Dashboard 2](2.png)
-
 
 ## About the Project
 Full-cycle analysis of 2,233 retail store customers. Goal — identify who generates the most revenue, how marketing campaigns perform, and which customer segments are most valuable for the business.
