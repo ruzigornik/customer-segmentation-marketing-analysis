@@ -1,4 +1,4 @@
-[UA](readme_ua.md) | **EN**
+[UA - Українська версія](readme_ua.md) | **EN**
 
 # Customer Personality Analysis
 

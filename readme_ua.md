@@ -1,4 +1,4 @@
-**UA** | [EN](readme_en.md)
+**UA** | [EN - English version](readme_en.md)
 
 # Customer Personality Analysis
 
