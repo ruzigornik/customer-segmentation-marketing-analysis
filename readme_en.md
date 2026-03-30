@@ -142,7 +142,7 @@ Validation methods: structural analysis (dataset size, column types, missing val
 - Methods - IQR, Z-score, percentile segmentation, correlation analysis
 
 ## Project Structure
-```
+
 03_customer_segmentation_marketing_analysis/
 ├── data/
 │   ├── raw/
@@ -161,5 +161,7 @@ Validation methods: structural analysis (dataset size, column types, missing val
 │   └── customer_analysis.pbix
 ├── Customer_Insights_en.png
 ├── Marketing_Campaign_Performance_en.png
+├── Портрет_клієнта_ua.png
+├── Ефективність_маркетингових_кампаній_ua.png
 ├── readme_ua.md
 └── readme_en.md
